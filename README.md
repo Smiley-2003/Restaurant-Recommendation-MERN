@@ -1,5 +1,18 @@
 # Resturant-Reccomendation-MERN
 
+#Frontend Project
+
+Step 1: Create a reactJS application by using this command
+
+npx create-react-app myapp
+
+Step 2: Navigate to project directory
+
+cd myapp
+
+Step 3: Install the necessary packages/libraries in your project using the following commands.
+
+npm i axios react-bootstrap
 
 1)App.js : This is the main file which contains the Navabar component ,filters like location,rating,cuisines and CardItem component which contains the information of each restaurant in card format.
 
