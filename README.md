@@ -1,6 +1,7 @@
 # Resturant-Reccomendation-MERN
+-----------------------------------------------------------------------------------------------
 
-#Frontend Project
+# Frontend Project
 
 Step 1: Create a reactJS application by using this command
 
