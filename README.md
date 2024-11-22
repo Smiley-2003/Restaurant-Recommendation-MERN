@@ -26,19 +26,29 @@ npm i axios react-bootstrap
 
 
 
- the Backend of Application
+ # Backend of Application
+ 
 Step 1: Create seperate directories for frontend and backend
 
 mkdir backend
+
 Step 2: Navigate to the backend directory using the command
 
 cd backend
+
 Step 3: Initialize Node Package Manager using the command.
 
 npm init -y
+
 Step 5: Install express, cors, body-parser, dotenv, mongoose packages using following command.
 
 npm i express cores body-parser mongoose dotenv
+
 Note: In backend create a file named .env and add variable
 
 PORT = 4000 and MONGO_URL = specifiy your mongodb url connection.
+
+
+Step to Run Application: Run the application using the following command from the root directory of the project
+
+#npm start
