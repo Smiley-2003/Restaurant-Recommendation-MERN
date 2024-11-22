@@ -1,0 +1,37 @@
+/* App.module.css */
+
+.headers {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 5vw;
+    margin-right: 5vw;
+    margin-top: 3vh;
+    padding-bottom: 2vh;
+    border-bottom: 1px solid gray;
+}
+
+.locationContainer {
+    width: 10vw;
+}
+
+.cuisinesContainer {
+    margin-top: 5vh;
+    width: 15vw;
+    height: 10vh;
+    overflow-y: scroll;
+}
+
+.ratingContainer {
+    width: 10vw;
+}
+
+.restaurants {
+    padding-bottom: 3vh;
+}
+
+.restaurants h3 {
+    margin-left: 5vw;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
