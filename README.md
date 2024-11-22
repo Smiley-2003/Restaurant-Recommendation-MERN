@@ -1,6 +1,8 @@
 # Resturant-Reccomendation-MERN
 -----------------------------------------------------------------------------------------------
 
+![image](https://github.com/user-attachments/assets/1628d58c-664d-49b5-b30c-f2d11712a89c)
+
 # Frontend Project
 
 Step 1: Create a reactJS application by using this command
