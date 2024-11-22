@@ -58,3 +58,6 @@ PORT = 4000 and MONGO_URL = specifiy your mongodb url connection.
 Step to Run Application: Run the application using the following command from the root directory of the project
 
 #npm start
+
+![image](https://github.com/user-attachments/assets/1628d58c-664d-49b5-b30c-f2d11712a89c)
+
